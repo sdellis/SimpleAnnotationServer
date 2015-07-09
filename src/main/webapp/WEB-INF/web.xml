@@ -7,7 +7,7 @@
   <context-param>
 	  <description>Sets the directory containing TDB RDF database</description>
 	  <param-name>data_dir</param-name>
-	  <param-value>data</param-value>
+	  <param-value>/usr/local/annotation-data</param-value>
   </context-param>
 
 
